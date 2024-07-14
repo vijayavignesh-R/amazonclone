@@ -1,0 +1,356 @@
+[{
+  "_id": {
+    "$oid": "660226762c6d772750657058"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "660226762c6d772750657059"
+      },
+      "name": "HP Laptop",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08192495_1_9.png",
+      "price": 600,
+      "product": {
+        "$oid": "65f67e20a9378bebbceed6c9"
+      },
+      "qty": 1
+    },
+    {
+      "_id": {
+        "$oid": "660226762c6d77275065705a"
+      },
+      "name": "Lenovo Laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeNUClUTkvwZ_UO7FHKRoSwVGl2KwonHNB-A&usqp=CAU",
+      "price": 580,
+      "product": {
+        "$oid": "65f67e8ca9378bebbceed6cb"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "raja",
+    "address": "new street",
+    "city": "madurai",
+    "postalcode": "625005",
+    "country": "india"
+  },
+  "paymentMethod": "Stripe",
+  "itemsPrice": 1180,
+  "shippingPrice": 0,
+  "taxPrice": 177,
+  "totalPrice": 1357,
+  "user": {
+    "$oid": "65f67b12cdaee9316c9b0297"
+  },
+  "createdAt": {
+    "$date": "2024-03-26T01:35:51.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T01:35:51.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66345f1e1d2b1105bcd2dfe2"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "66345f1e1d2b1105bcd2dfe3"
+      },
+      "name": "Monitor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhX93oPl7ke3pW30m6Bf8yuVtZXLztiDg4Jw&usqp=CAU",
+      "price": 270,
+      "product": {
+        "$oid": "661899a5e25c108f6076edb9"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "kkkkkkkkk",
+    "address": "kkkkkkkkkkk",
+    "city": "kkkkkkkkkk",
+    "postalcode": "1111111111111",
+    "country": "111111111111111111111"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 270,
+  "shippingPrice": 0,
+  "taxPrice": 40.5,
+  "totalPrice": 310.5,
+  "user": {
+    "$oid": "66345efc1d2b1105bcd2dfdd"
+  },
+  "createdAt": {
+    "$date": "2024-05-03T03:50:54.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T03:50:54.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663463561d2b1105bcd2e000"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "663463561d2b1105bcd2e001"
+      },
+      "name": "Monitor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhX93oPl7ke3pW30m6Bf8yuVtZXLztiDg4Jw&usqp=CAU",
+      "price": 270,
+      "product": {
+        "$oid": "661899a5e25c108f6076edb9"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Dinesh",
+    "address": "Chennai",
+    "city": "Chennai",
+    "postalcode": "11111111",
+    "country": "222222222222"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 270,
+  "shippingPrice": 0,
+  "taxPrice": 40.5,
+  "totalPrice": 310.5,
+  "user": {
+    "$oid": "66345efc1d2b1105bcd2dfdd"
+  },
+  "createdAt": {
+    "$date": "2024-05-03T04:08:54.866Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T04:08:54.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c59ad01bc7a2260e79263"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "663c59ad01bc7a2260e79264"
+      },
+      "name": "Dell Monitor",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2424ht/media-gallery/monitor-p2424ht-black-gallery-1.psd?fmt=pjpg&pscan=auto&scl=1&wid=3459&hei=3148&qlt=100,1&resMode=sharp2&size=3459,3148&chrss=full&imwidth=5000",
+      "price": 14000,
+      "product": {
+        "$oid": "66321e84ce9ad1b02890f9d7"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "kk",
+    "address": "kk",
+    "city": "kk",
+    "postalcode": "625001",
+    "country": "india"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 14000,
+  "shippingPrice": 0,
+  "taxPrice": 2100,
+  "totalPrice": 16100,
+  "user": {
+    "$oid": "66345efc1d2b1105bcd2dfdd"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T05:05:49.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T05:05:49.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d1d0158b8451f481dfbc1"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "663d1d0158b8451f481dfbc2"
+      },
+      "name": "HP",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08192495_1_9.png",
+      "price": 600,
+      "product": {
+        "$oid": "65f67e20a9378bebbceed6c9"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "kkk",
+    "address": "fgd",
+    "city": "dfgd",
+    "postalcode": "45645",
+    "country": "india"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 600,
+  "shippingPrice": 0,
+  "taxPrice": 90,
+  "totalPrice": 690,
+  "user": {
+    "$oid": "663d140dace90f2cc0ad715b"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T18:59:13.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T18:59:13.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d1e1e58b8451f481dfbd8"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "663d1e1e58b8451f481dfbd9"
+      },
+      "name": "HP",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08192495_1_9.png",
+      "price": 600,
+      "product": {
+        "$oid": "65f67e20a9378bebbceed6c9"
+      },
+      "qty": 5
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "kkk",
+    "address": "fgd",
+    "city": "dfgd",
+    "postalcode": "45645",
+    "country": "india"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 3000,
+  "shippingPrice": 0,
+  "taxPrice": 450,
+  "totalPrice": 3450,
+  "user": {
+    "$oid": "663d140dace90f2cc0ad715b"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T19:03:58.346Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T19:03:58.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d27ebb3deba26c0e89803"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "663d27ebb3deba26c0e89804"
+      },
+      "name": "lenovo",
+      "image": "https://5.imimg.com/data5/AY/DP/MY-11673038/lenovo-laptop.png",
+      "price": 45000,
+      "product": {
+        "$oid": "662de4d4396b91896cbd4b99"
+      },
+      "qty": 15
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "kkk madurai",
+    "address": "fgd",
+    "city": "dfgd",
+    "postalcode": "45645",
+    "country": "india"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 675000,
+  "shippingPrice": 0,
+  "taxPrice": 101250,
+  "totalPrice": 776250,
+  "user": {
+    "$oid": "663d140dace90f2cc0ad715b"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T19:45:47.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T19:45:47.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d2c3bb3deba26c0e89826"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "663d2c3bb3deba26c0e89827"
+      },
+      "name": "Monitor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhX93oPl7ke3pW30m6Bf8yuVtZXLztiDg4Jw&usqp=CAU",
+      "price": 270,
+      "product": {
+        "$oid": "661899a5e25c108f6076edb9"
+      },
+      "qty": 5
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "kkk madurai",
+    "address": "fgd",
+    "city": "dfgd",
+    "postalcode": "45645",
+    "country": "india"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 1350,
+  "shippingPrice": 0,
+  "taxPrice": 202.5,
+  "totalPrice": 1552.5,
+  "user": {
+    "$oid": "663d140dace90f2cc0ad715b"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T20:04:11.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T20:04:11.634Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,175 @@
+.main{
+    background-color: #E3E6E6;
+    padding: 20px 40px 1px 40px;
+}
+.maint{
+    background-color: #E3E6E6;
+    padding: 1px 80px 20px 80px;
+}
+.mainth{
+    background-color: #E3E6E6;
+    padding: 40px 80px 20px 80px;
+}
+
+
+
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #E3E6E6;
+
+   justify-content: space-between;
+}
+.smain{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    gap: 10px;
+    padding: 10px;
+
+}
+.simg{
+    width: 120px;
+    height: 116px;
+}
+
+.hbtn{
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: solid #147C8F 1px;
+    color: #147C8F;
+}
+.two{
+background-color: white;
+padding: 25px;
+margin: 20px 0px;
+}
+.fmain{
+    background-color: white;
+    padding: 50px;
+    margin: 50px 0px;
+}
+.fimg{
+    width: 200px;
+    height: 200px;
+
+}
+.fpar{
+   
+
+    padding: 30px 0px 0px 0px;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.fpar  img{
+    display: block;   
+}
+
+.fpar button {
+   
+    padding: 10px 15px;
+    background-color: rgb(72, 181, 236);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.fpar h4{
+    line-height: 50px;
+}
+.printon{
+    text-align: center;
+}
+.foot{
+
+    background-color: #232F3E;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly ;
+}
+.fan{
+    display: block;
+    color: rgb(208, 206, 206);
+    padding: 5px 0px;
+}
+.fchi > h3{
+    color: white;
+}
+.fchi{
+    padding: 0px 60px;
+}
+.cpy{
+    background-color: #232F3E;
+    padding: 50px;
+    border-top: solid 1px white;
+    text-align: center;
+    color: white;
+    line-height: 30px;
+
+}
+.printo img{
+  width: 292px;   
+  height: 466px;
+}
+
+.printo button{
+    margin-bottom: 80px;
+}
+.fmai{
+    background-color: white;
+    padding: 50px 50px 0px 50px;
+    margin: 50px 0px;
+}
+
+.schi{
+   margin: 5px;
+}
+.spar{
+    font-size: 12px;
+}
+#fparimg{
+
+    border: ridge 1px #506d90;
+    padding: 20px;
+}
+#bg{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20190220/ourmid/pngtree-watercolor-light-yellow-light-green-pink-color-image_7008.jpg');
+    background-size: cover;
+}
+#inbg{
+    border: ridge 1px #506d90;
+    padding: 20px;
+
+}
+#hgd{
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+#hgr{
+    padding: 0px 0px 10px 0px;
+}
+#sli{
+    width: 200px;
+}
+
+.newmain{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    
+    background-color: #111111;
+}
+.newone{
+    display: flex;
+    gap: 10px;
+    color: white;
+    line-height: 25px;
+    padding: 30px;
+    background-color: #303030;
+}

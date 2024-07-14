@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "66383d89278371c81005dd9a"
+  },
+  "categoryname": "mobile",
+  "createdAt": {
+    "$date": "2024-05-06T02:16:41.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T02:16:41.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66383d92278371c81005dd9e"
+  },
+  "categoryname": "laptop",
+  "createdAt": {
+    "$date": "2024-05-06T02:16:50.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T02:16:50.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66383d98278371c81005dda2"
+  },
+  "categoryname": "monitor",
+  "createdAt": {
+    "$date": "2024-05-06T02:16:56.616Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T02:16:56.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66383da0278371c81005dda6"
+  },
+  "categoryname": "accessories",
+  "createdAt": {
+    "$date": "2024-05-06T02:17:04.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T02:17:04.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66383da6278371c81005ddaa"
+  },
+  "categoryname": "earphones",
+  "createdAt": {
+    "$date": "2024-05-06T02:17:10.513Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T02:17:10.513Z"
+  },
+  "__v": 0
+}]

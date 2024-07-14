@@ -1,0 +1,8 @@
+.speak-now-message {
+
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Green background color */
+    color: #ffffff; /* White text color */
+    border-radius: 20px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
+}

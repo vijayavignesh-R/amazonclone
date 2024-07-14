@@ -1,0 +1,30 @@
+.products-container {
+    display: flex;
+    flex-wrap: nowrap; /* Prevent wrapping to next line */
+    overflow-x: auto; /* Enable horizontal scrolling if content exceeds container width */
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS devices */
+    margin-bottom: 20px; /* Add some space at the bottom */
+}
+
+.product-item {
+    flex: 0 0 auto; /* Don't allow items to grow, shrink, or basis */
+    margin-right: 10px; /* Add space between items */
+}
+
+.products-container::-webkit-scrollbar {
+    width: 8px; /* Set the width of the scrollbar */
+}
+
+.products-container::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Track color */
+}
+
+.products-container::-webkit-scrollbar-thumb {
+    background: #3e17ee; /* Dragging bar color */
+    border-radius: 6px; /* Rounded corners */
+}
+
+.products-container::-webkit-scrollbar-thumb:hover {
+    background: #00cc0a; /* Hover color */
+}
+
